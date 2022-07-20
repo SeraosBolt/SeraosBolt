@@ -1,16 +1,28 @@
-### Hi there 👋
+# Matheus Soares
+##### Em busca de ser um desenvolvedor completo
 
-<!--
-**SeraosBolt/SeraosBolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vamos compartilhar ideias e códigos
 
-Here are some ideas to get you started:
+- Alguns projetos em React Native
+- Outros em python
+- Paginas WEB
+- Jogos em Unity
+- ✨Magic ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Um pouco sobre mim!
+
+Meu nome é Matheus Soares tenho 24 anos e sou um apaixonado por tecnologia, por aqui vocês vão ver alguns projetos publicos com o intuito de divulgar a programação para o máximo de pessoas possível, então mão no codigo e vamos desenvolver algo legal
+
+
+## Redes Sociais
+
+Você pode me acompanhar também por esses outros canais:
+
+- [Linkedin] - Me siga no Linkedin!
+- [Instagram] - Me siga no Instagram!
+
+
+
+   [Instagram]: <https://www.instagram.com/soares747/>
+   [Linkedin]: <https://www.linkedin.com/in/matheus-fernando-soares/>
+
