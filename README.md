@@ -3,6 +3,7 @@
 
 Vamos compartilhar ideias e códigos
 
+- Projetos em Angular
 - Alguns projetos em React Native
 - Outros em python
 - Paginas WEB
