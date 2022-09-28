@@ -26,3 +26,4 @@ Você pode me acompanhar também por esses outros canais:
    [Instagram]: <https://www.instagram.com/soares747/>
    [Linkedin]: <https://www.linkedin.com/in/matheus-fernando-soares/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeraosBolt)](https://github.com/anuraghazra/github-readme-stats)
