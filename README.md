@@ -26,4 +26,5 @@ Você pode me acompanhar também por esses outros canais:
    [Instagram]: <https://www.instagram.com/soares747/>
    [Linkedin]: <https://www.linkedin.com/in/matheus-fernando-soares/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeraosBolt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeraosBolt&show_icons=true&bg_color=0d1117&hide_border=true&text_color=ffffff&count_private=true&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeraosBolt&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&count_private=true&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
