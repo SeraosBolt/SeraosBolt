@@ -12,7 +12,7 @@ Vamos compartilhar ideias e códigos
 
 ## Um pouco sobre mim!
 
-Meu nome é Matheus Soares tenho 24 anos e sou um apaixonado por tecnologia, por aqui vocês vão ver alguns projetos publicos com o intuito de divulgar a programação para o máximo de pessoas possível, então mão no codigo e vamos desenvolver algo legal
+Meu nome é Matheus Soares tenho 25 anos e sou um apaixonado por tecnologia, por aqui vocês vão ver alguns projetos publicos com o intuito de divulgar a programação para o máximo de pessoas possível, então mão no codigo e vamos desenvolver algo legal
 
 
 ## Redes Sociais
